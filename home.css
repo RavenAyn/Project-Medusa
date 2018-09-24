@@ -1,0 +1,79 @@
+@font-face{
+    src: url(fonts/CocoBiker\ Regular\ Trial.ttf);
+    font-family: medusa;
+}
+@font-face{  src:url(fonts/Mitr-Regular.ttf);
+   font-family: mitr;
+ }
+
+@font-face{  src:url(fonts/Kanit-Regular.ttf);
+   font-family: kanit;
+ }
+
+
+h1 {
+    color: black;
+    font-family: medusa;
+    
+    align-self: auto;
+    text-align: center;
+    margin: 0;
+}
+
+h2{
+    color: black;
+    font-family: kanit;
+    font-size: 1.1em
+
+
+}
+#about{
+        
+    margin-left: 10vw;
+    margin-right:10vw
+    
+}
+
+p {
+    font-family: kanit;
+    color: #515151;
+}
+
+#medusa{
+    
+    display: block;
+    height: 40vh;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#links{
+    width: 5vw;
+    margin-left: 6.5vw;
+    margin-right:          6.5vw
+}
+
+#links-table{
+    text-align: center;
+    font-size: 0.9em;
+    width: 50vw;
+    
+
+}
+table{ width: 100%;
+}
+
+
+body{
+    background-image: url('images/mould.jpg');
+     background-repeat:repeat;
+     background-attachment: fixed;
+        
+  }
+html, body{
+    height:100%;
+    width:100%;
+    padding:0;
+    margin:0;
+}
