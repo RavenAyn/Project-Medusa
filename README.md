@@ -4,7 +4,12 @@ For the most part this is simply me trying to see exactly how this works. For no
 
 ### [Python](https://ravenayn.github.io/Project-Medusa/Python)
 
-This should end up being where I keep my notes and some code regarding python. There's a fucktonne I don't know and I hope to make that fucktonne an fuckgram, or perhaps even a fuckmiligram. 
+This should end up being where I keep my notes and some code regarding python. There's a fucktonne I don't know and I hope to make that fucktonne an fuckgram, or perhaps even a fuckmiligram.
+
+So for now I'm going to start adding notes here that I haven't yet created a page for. It's really rough and just for me don't judge me. 
+
+So note number one, on how python links data types.
+So for integers, floats and strings, if you state a = b, and then change either of those values, the other will be unaffected. However for lists and arrays (and probably anything more complex than a point value) if you have listA = listB they are fucking married, you change something in listB then listA will change too. To get a new object(list for this example) and you have listA already defined, go listB=list(listA)
 
 ### [Java](https://ravenayn.github.io/Project-Medusa/Java)
 
