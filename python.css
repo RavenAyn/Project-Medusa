@@ -1,0 +1,59 @@
+@font-face{
+    src: url(fonts/CocoBiker\ Regular\ Trial.ttf);
+    font-family: medusa;
+}
+@font-face{  src:url(fonts/Mitr-Regular.ttf);
+   font-family: mitr;
+ }
+
+@font-face{  src:url(fonts/Kanit-Regular.ttf);
+   font-family: kanit;
+ }
+
+@font-face{  src:url(fonts/BetterBook.otf);
+   font-family: python;
+ }
+
+body{
+    background-color: #202020;
+}
+
+h1,h2{
+    color: white;
+    font-family: python
+}
+h2{
+    font-family: kanit;
+    font-size: 1.1em;
+    margin-left: -5vw;
+
+
+}
+#about{
+        
+    margin-left: auto;
+    margin-right:auto
+    
+}
+p,li{font-family: kanit;
+    color: #9f9f9f;}
+
+
+
+#heading{
+    width: 10vw;
+    
+}
+
+
+#index{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 3vw;
+    border: 3px solid #9f9f9f;
+    margin-right: 75vw;
+    
+}
+
+#content{
+    margin-left: 30vw}}
